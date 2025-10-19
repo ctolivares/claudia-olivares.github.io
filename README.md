@@ -10,7 +10,7 @@ With over 8 years of experience in **Business Intelligence and Data Analytics**,
 ## 🎓 Certifications  
 
 [![Power BI Data Analyst]([https://img.shields.io/badge/Power%20BI-Data%20Analyst-yellow?logo=power-bi)](https://learn.microsoft.com/en-us/users/claudiatangerinoolivares-7995/credentials/a7568d3d04a347d7?ref=https%3A%2F%2Fwww.linkedin.com%2F)  
-[![Databricks Certified Data Analyst Associate]([https://img.shields.io/badge/Databricks-Certified%20Data%20Analyst-orange?logo=databricks)](https://credentials.databricks.com/65f61108-ec56-47c8-b40d-9ffa5b791e5d#acc.rjOg0XRT)
+[![Databricks Certified Data Analyst Associate](https://github.com/ctolivares/claudia-olivares.github.io/blob/main/Databricks%20Certified%20Data%20Analyst%20Associate%20%E2%80%A2%20Claudia%20Tangerino%20Olivares%20%E2%80%A2%20Databricks%20Badges.html)(https://credentials.databricks.com/65f61108-ec56-47c8-b40d-9ffa5b791e5d#acc.rjOg0XRT)
 
 ---
 
