@@ -14,7 +14,7 @@ With over 8 years of experience in **Business Intelligence and Data Analytics**,
     <img src="badge_PowerBI.png" alt="Power BI Data Analyst" width="120" />
   </a>
   <a href="https://credentials.databricks.com/65f61108-ec56-47c8-b40d-9ffa5b791e5d#acc.rjOg0XRT">
-    <img src="badge_Databricks.png" alt="Databricks Certified Data Analyst" width="95" />
+    <img src="badge_Databricks.png" alt="Databricks Certified Data Analyst" width="90" />
   </a>
 </p>
 
