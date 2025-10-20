@@ -45,11 +45,11 @@ With over 8 years of experience in **Business Intelligence and Data Analytics**,
 ### 🟡 Marketing Analysis – *Python*  
 - **Goal:** The goal of this A/B test analysis was to evaluate the performance of two marketing website versions — AD (test group) and PSA (control group) — in terms of conversion rates.  
 - **Stack:** Python, Matplotlib  
-- Impact
-- AD conversion rate: **2.62%**
-- PSA conversion rate: **1.82%**
-- **p-value = 1.99e-13** → statistically significant difference  
-✅ The ad version outperformed the control, showing a clear positive uplift in conversions..  
+- **Impact:**
+  - AD conversion rate: **2.62%**
+  - PSA conversion rate: **1.82%**
+  - **p-value = 1.99e-13** → statistically significant difference  
+  - The ad version outperformed the control, showing a clear positive uplift in conversions..  
 - 📘 [Jupyter Notebook](testAB.ipynb)  
 
 ---
