@@ -23,15 +23,14 @@ With over 8 years of experience in **Business Intelligence and Data Analytics**,
 
 ---
 
-## 🚀 Featured Projects  
+## Featured Projects  
 
-### 🟢 Olist Sales Dashboard – *Power BI*  
+### 🟢 Ecommerce Sales Dashboard – *Power BI*  
 - **Goal:** Analyze sales and customer performance across multiple marketplaces.  
 - **Stack:** Power BI, SQL, DAX, Data Modeling  
 - **Highlights:**  
   - Designed star schema and advanced DAX measures for KPIs (GMV, MoM, YoY).  
-  - 80% dashboard adoption across 120+ business users.  
-- 📊 [View Project](#)  
+- [View Project](#)  
 
 ---
 
@@ -54,13 +53,13 @@ With over 8 years of experience in **Business Intelligence and Data Analytics**,
 
 ---
 
-## 🧰 Tech Stack  
+## Tech Stack  
 
 **Languages & Tools:**  
 `SQL` · `Python` · `PySpark` · `R` · `Power BI` · `Tableau` · `Azure Databricks` · `DAX` · `GitHub`  
 
 **Cloud & Data Engineering:**  
-`Azure Data Lake` · `Delta Lake` · `ETL Pipelines` · `Data Modeling` · `Airflow`  
+`Azure Data Lake` · `Delta Lake` · `ETL Pipelines` · `Data Modeling`   
 
 **Soft Skills:**  
 `Problem Solving` · `Analytical Thinking` · `Data Storytelling` · `Business Partnering`
@@ -77,7 +76,6 @@ With over 8 years of experience in **Business Intelligence and Data Analytics**,
 ## 📫 Let's Connect  
 
 🌐 [LinkedIn](https://www.linkedin.com/in/claudiatangerino)  
-📧 claudia.t.olivares@gmail.com  
 📍 São Paulo, Brazil  
 
 ---
