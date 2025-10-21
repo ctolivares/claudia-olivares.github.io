@@ -53,7 +53,7 @@ With over 8 years of experience in **Business Intelligence and Data Analytics**,
   - PSA conversion rate: **1.82%**
   - **p-value = 1.99e-13** → statistically significant difference  
   - The ad version outperformed the control, showing a clear positive uplift in conversions..  
-<a href="[https://raw.githubusercontent.com/ctolivares/claudia-olivares.github.io/main/testAB.ipynb](https://raw.githubusercontent.com/ctolivares/claudia-olivares.github.io/refs/heads/main/testAB.ipynb)" download="testAB.ipynb">
+<a href="https://raw.githubusercontent.com/ctolivares/claudia-olivares.github.io/main/testAB.ipynb" download="testAB.ipynb">
 📘 Jupyter Notebook
 </a>
 
