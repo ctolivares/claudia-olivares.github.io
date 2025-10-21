@@ -34,7 +34,7 @@ With over 8 years of experience in **Business Intelligence and Data Analytics**,
 
 ---
 
-### 🟢 Beverage Sales Dashboard – *Power BI*  
+### <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="20"/> Beverage Sales Dashboard – *Power BI*
 - **Goal:** Analyze beverage sales performance to identify trends, key metrics, and improvement opportunities.  
 - **Stack:** Power BI, SQL, DAX, Data Modeling  
 - **Highlights:**  
@@ -53,7 +53,7 @@ With over 8 years of experience in **Business Intelligence and Data Analytics**,
 
 ---
 
-### 🟡 Marketing Analysis – *Python*  
+### <img src="https://img.icons8.com/color/48/000000/python.png" width="20"/> Marketing Analysis – *Python*
 - **Goal:** The goal of this A/B test analysis was to evaluate the performance of two marketing website versions — AD (test group) and PSA (control group) — in terms of conversion rates.  
 - **Stack:** Python, Matplotlib  
 - **Impact:**
