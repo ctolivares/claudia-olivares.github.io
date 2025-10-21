@@ -30,7 +30,7 @@ With over 8 years of experience in **Business Intelligence and Data Analytics**,
 - **Stack:** Power BI, SQL, DAX, Data Modeling  
 - **Highlights:**  
   - Designed star schema and advanced DAX measures for KPIs (GMV, MoM, YoY).  
-- [View Project](#)  
+- [View Project](https://app.powerbi.com/view?r=eyJrIjoiZWJlODZmNTItODlmNi00MmI0LWFjYWUtNGMwNzM3ZWNlYmJlIiwidCI6IjhlODhhNGE0LWNkYjctNGM3YS04MTRhLTk1OTMyY2RhM2Q5ZiJ9)  
 
 ---
 
