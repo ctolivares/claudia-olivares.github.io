@@ -41,7 +41,7 @@ With over 8 years of experience in **Business Intelligence and Data Analytics**,
   - Delivered actionable insights on beverage sales trends and profitability.  
   - Improved data-driven decision-making through KPI analysis and visual reporting.  
   - Supported strategic planning by identifying market growth and optimization areas.    
-- [View Project]()  
+- [View Project](Beverages_orders.pbix)  
 
 ---
 
