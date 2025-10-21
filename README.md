@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Claudia Tangerino Olivares  
 
-🎯 **Senior BI & Data Analyst | Power BI | SQL | Databricks | Python | Cloud Analytics**
+🎯 Senior BI & Data Analyst | Power BI | SQL | Databricks | Python | Cloud Analytics
 
 I’m passionate about transforming data into insights that drive strategic decisions.  
 With over 8 years of experience in **Business Intelligence and Data Analytics**, I’ve helped companies in **finance, retail, and technology** adopt a data-driven culture, optimize performance, and modernize their data ecosystems.
