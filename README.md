@@ -45,14 +45,6 @@ With over 8 years of experience in **Business Intelligence and Data Analytics**,
 
 ---
 
-
-### 🟣 Databricks Migration Pipeline – *PySpark & SQL*  
-- **Goal:** Migrate on-premise SQL Server to Azure Databricks.  
-- **Stack:** PySpark, Delta Lake, SQL, Azure Data Lake  
-- **Impact:** Reduced data refresh time by **2 hours** and improved reliability.  
-
----
-
 ### <img src="https://img.icons8.com/color/48/000000/python.png" width="20"/> Marketing Analysis – *Python*
 - **Goal:** The goal of this A/B test analysis was to evaluate the performance of two marketing website versions — AD (test group) and PSA (control group) — in terms of conversion rates.  
 - **Stack:** Python, Matplotlib  
