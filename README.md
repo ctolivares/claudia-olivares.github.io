@@ -34,6 +34,18 @@ With over 8 years of experience in **Business Intelligence and Data Analytics**,
 
 ---
 
+### 🟢 Beverage Sales Dashboard – *Power BI*  
+- **Goal:** Analyze beverage sales performance to identify trends, key metrics, and improvement opportunities.  
+- **Stack:** Power BI, SQL, DAX, Data Modeling  
+- **Highlights:**  
+  - Delivered actionable insights on beverage sales trends and profitability.  
+  - Improved data-driven decision-making through KPI analysis and visual reporting.  
+  - Supported strategic planning by identifying market growth and optimization areas.    
+- [View Project]()  
+
+---
+
+
 ### 🟣 Databricks Migration Pipeline – *PySpark & SQL*  
 - **Goal:** Migrate on-premise SQL Server to Azure Databricks.  
 - **Stack:** PySpark, Delta Lake, SQL, Azure Data Lake  
