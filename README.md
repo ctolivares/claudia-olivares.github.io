@@ -25,7 +25,7 @@ With over 8 years of experience in **Business Intelligence and Data Analytics**,
 
 ## Featured Projects  
 
-### 🟢 Ecommerce Sales Dashboard – *Power BI*  
+### <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="20"/> Ecommerce Sales Dashboard – *Power BI* 
 - **Goal:** Analyze sales and customer performance across multiple marketplaces.  
 - **Stack:** Power BI, SQL, DAX, Data Modeling  
 - **Highlights:**  
